@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/oriern/oriern.github.io.git
+	branch = master
